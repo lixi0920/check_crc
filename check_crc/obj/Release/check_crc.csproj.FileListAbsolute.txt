@@ -1,0 +1,8 @@
+c:\users\lrq\documents\visual studio 2013\Projects\check_crc\check_crc\bin\Release\check_crc.exe.config
+c:\users\lrq\documents\visual studio 2013\Projects\check_crc\check_crc\bin\Release\check_crc.exe
+c:\users\lrq\documents\visual studio 2013\Projects\check_crc\check_crc\bin\Release\check_crc.pdb
+c:\users\lrq\documents\visual studio 2013\Projects\check_crc\check_crc\obj\Release\check_crc.CRC.resources
+c:\users\lrq\documents\visual studio 2013\Projects\check_crc\check_crc\obj\Release\check_crc.Properties.Resources.resources
+c:\users\lrq\documents\visual studio 2013\Projects\check_crc\check_crc\obj\Release\check_crc.csproj.GenerateResource.Cache
+c:\users\lrq\documents\visual studio 2013\Projects\check_crc\check_crc\obj\Release\check_crc.exe
+c:\users\lrq\documents\visual studio 2013\Projects\check_crc\check_crc\obj\Release\check_crc.pdb
